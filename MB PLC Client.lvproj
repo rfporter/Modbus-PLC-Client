@@ -18,7 +18,6 @@
 			<Item Name="Modbus PLC Comm Tester.vi" Type="VI" URL="../Examples/Modbus PLC Comm Tester.vi"/>
 		</Item>
 		<Item Name="MB PLC Client.lvlib" Type="Library" URL="../MB PLC Client.lvlib"/>
-		<Item Name="Modbus PLC Comm Tester_Watch Entry Popup.vi" Type="VI" URL="../Examples/Modbus PLC Comm Tester_Watch Entry Popup.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Assert Array Dimension Count.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Array Dimension Count.vim"/>
