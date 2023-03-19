@@ -15,6 +15,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Examples" Type="Folder">
 			<Item Name="Example_Simple Write and Read.vi" Type="VI" URL="../Examples/Example_Simple Write and Read.vi"/>
+			<Item Name="Modbus PLC Comm Tester.vi" Type="VI" URL="../Examples/Modbus PLC Comm Tester.vi"/>
 		</Item>
 		<Item Name="MB PLC Client.lvlib" Type="Library" URL="../MB PLC Client.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -26,6 +27,10 @@
 				<Item Name="MB Master.lvlib" Type="Library" URL="/&lt;vilib&gt;/Plasmionique/MB Master/MB Master.lvlib"/>
 				<Item Name="MB_VISA_Lock.lvlib" Type="Library" URL="/&lt;vilib&gt;/Plasmionique/MB Master/MB_VISA_Lock/MB_VISA_Lock.lvlib"/>
 			</Item>
+			<Item Name="Read from Coils DB_byRef.vi" Type="VI" URL="../Data/Read from Coils DB_byRef.vi"/>
+			<Item Name="Read from DI DB_byRef.vi" Type="VI" URL="../Data/Read from DI DB_byRef.vi"/>
+			<Item Name="Read from HR DB_byRef.vi" Type="VI" URL="../Data/Read from HR DB_byRef.vi"/>
+			<Item Name="Read from IR DB_byRef.vi" Type="VI" URL="../Data/Read from IR DB_byRef.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Source Distribution" Type="Source Distribution">

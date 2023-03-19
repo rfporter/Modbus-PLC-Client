@@ -4,6 +4,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Tools" Type="Folder">
+		<Item Name="Ref to Address.vi" Type="VI" URL="../Ref to Address.vi"/>
+		<Item Name="Value to MB Data Block.vim" Type="VI" URL="../Value to MB Data Block.vim"/>
+	</Item>
 	<Item Name="Types" Type="Folder">
 		<Item Name="MB Ref Range_Cluster.ctl" Type="VI" URL="../Types/MB Ref Range_Cluster.ctl"/>
 		<Item Name="PLC Config_Cluster.ctl" Type="VI" URL="../Types/PLC Config_Cluster.ctl"/>
